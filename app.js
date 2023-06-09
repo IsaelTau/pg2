@@ -1,7 +1,7 @@
 var btn = document.querySelector(".no");
 var position
 btn.addEventListener("click", function() {
-position ? (position = 0) : (position = 350);
+position ? (position = 0) : (position = 100);
 btn.style.transform = `translate(${position}px,0px)`;
 btn.style.transition = "all 0.2s ease";
 });
