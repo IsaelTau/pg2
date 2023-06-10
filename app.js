@@ -20,8 +20,8 @@ sim.addEventListener("click", () => {
 
 let timerInterval
 Swal.fire({
-  title: 'E me enrola esse tempo todo? 😍',
-  html: 'Prometo lhe fazer feliz. 💘',
+  title: 'E fica me enrolando? 😍',
+  html: 'Vem com o pai que é suceso. 💘',
   timer: 4000,
   timerProgressBar: true,
   didOpen: () => {
