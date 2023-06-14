@@ -38,7 +38,7 @@ html,body{
     }
 
     .logo {
-      font-size: 12px;
+      font-size: 08px;
       color: #F26161;
       text-transform: uppercase;
       letter-spacing: 2px;
@@ -68,7 +68,7 @@ html,body{
     }
 
     h1 {
-      font-size: 20px;
+      font-size: 15px;
       color: #fd0000;
       margin-bottom: 20px;
     }
@@ -83,7 +83,7 @@ html,body{
   .no {
 background-color: #ffffff;
     color: #ff0000;
-    font-size: 20px;
+    font-size: 15px;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
